@@ -47,3 +47,7 @@
 
 - wx.config 的 link 字段不在公众号配置的可信域名
 - 验证签名时没有动态获取url，也就是上面代码配置提到的 `getSignUrl` 函数
+
+## 其他
+
+除了使用本库的 WeixinController ，还可以[weixin-java-tools](https://github.com/Wechat-Group/weixin-java-tools/)在后台做验证。
