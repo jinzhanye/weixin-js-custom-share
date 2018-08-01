@@ -50,4 +50,4 @@
 
 ## 其他
 
-除了使用本库的 WeixinController ，还可以[weixin-java-tools](https://github.com/Wechat-Group/weixin-java-tools/)在后台做验证。
+除了使用本库的 WeixinController ，还可以使用[weixin-java-tools](https://github.com/Wechat-Group/weixin-java-tools/)在后台做验证。
