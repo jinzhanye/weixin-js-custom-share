@@ -13,6 +13,7 @@
 
 ### 代码配置
 
+- 将 MP\_verify_[任意字符].txt 放在前端项目的根目录
 - 将 AppId、AppSecret 配置到 WeixinController
 - 在share.js配置分享信息
     
